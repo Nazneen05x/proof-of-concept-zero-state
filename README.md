@@ -21,11 +21,17 @@
 
 ## 🗣 Feedback klasgenoten (medestudenten)
 
-## Drie beste ontwerpen (uitwerkingen) 👩🏾‍💻
+## ✨Drie beste ontwerpen (uitwerkingen) 👩🏾‍💻
 
 ## 🗣 Feedback opdrachtgever 
 
-## Eindresultaat
+## ✨Eindresultaat✨
+
+<img width="331" alt="Scherm­afbeelding 2023-06-25 om 01 06 17" src="https://github.com/Nazneen05x/proof-of-concept-zero-state/assets/112861261/e5300800-0a85-412c-bfbc-3481d9fdac33">
+
+
+
+
 
 
 
