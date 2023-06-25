@@ -24,6 +24,7 @@
 ## 🗣 Feedback klasgenoten (medestudenten)
 
 Het was duidelijk, dat het ging om een peroonlijk website (cv). Jalal had mij als idee gegeven om een voorblad te maken.
+
 <img width="500" alt="" src="https://github.com/Nazneen05x/proof-of-concept-zero-state/assets/112861261/3cb28660-2996-4028-bbf2-1fc363458f3c">
 
 
