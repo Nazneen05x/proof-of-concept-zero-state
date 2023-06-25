@@ -23,6 +23,10 @@
 
 ## ✨Drie beste ontwerpen (uitwerkingen) 👩🏾‍💻
 
+<img width="542" alt="Scherm­afbeelding 2023-06-25 om 16 53 01" src="https://github.com/Nazneen05x/proof-of-concept-zero-state/assets/112861261/7e847dfb-5ce5-4dcc-93e9-eb1bcaa071f8">
+
+<img width="342" alt="Scherm­afbeelding 2023-06-25 om 16 53 29" src="https://github.com/Nazneen05x/proof-of-concept-zero-state/assets/112861261/b0e80fda-9c8c-49a7-8797-1d4bcceae08d">
+
 ## 🗣 Feedback opdrachtgever 
 
 ## ✨Eindresultaat✨
