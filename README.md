@@ -37,7 +37,7 @@ Het was duidelijk, dat het ging om een peroonlijk website (cv). Jalal had mij al
 
 ## 🗣 Feedback opdrachtgever 
 
-Woensdag 14 Juni 2023 Zijn we geweest bij de opdrachtgever, voor een rondleiding en feedback.
+Woensdag 14 Juni 2023, zijn we geweest bij de opdrachtgever, voor een rondleiding en feedback.
 
 De opdrachtgever vond de schetsen mooi en de ideeën leuk. Hij vond vooral de idee van Jalal leuk en goed. Maar ook vond hij de idee om de volgorde te aanpassen heel goed.
 
